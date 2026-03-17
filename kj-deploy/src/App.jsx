@@ -609,7 +609,7 @@ function AddBlockForm({ onAdd }) {
 }
 
 const S = {
-  container: { display: "flex", flexDirection: "column", height: "100vh", background: "#0c0f14", color: "#e2e8f0", fontFamily: "'SF Pro Display', -apple-system, 'Helvetica Neue', sans-serif", maxWidth: 480, margin: "0 auto", position: "relative", overflow: "hidden" },
+  container: { display: "flex", flexDirection: "column", height: "100dvh", background: "#0c0f14", color: "#e2e8f0", fontFamily: "'SF Pro Display', -apple-system, 'Helvetica Neue', sans-serif", maxWidth: 480, margin: "0 auto", position: "relative", overflow: "hidden", paddingTop: "env(safe-area-inset-top)" },
   loadScreen: { display: "flex", alignItems: "center", justifyContent: "center", height: "100vh", background: "#0c0f14", color: "#64748b" },
   hdr: { padding: "14px 16px 10px", borderBottom: "1px solid rgba(255,255,255,0.06)", flexShrink: 0 },
   hdrTop: { display: "flex", justifyContent: "space-between", alignItems: "flex-start" },
