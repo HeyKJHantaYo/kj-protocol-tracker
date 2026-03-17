@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#0c0f14"/>
+  <circle cx="256" cy="220" r="90" fill="none" stroke="#34d399" stroke-width="16" stroke-dasharray="440 125" stroke-linecap="round" transform="rotate(-90 256 220)"/>
+  <text x="256" y="240" text-anchor="middle" fill="#f1f5f9" font-family="system-ui" font-size="56" font-weight="800">KJ</text>
+  <text x="256" y="370" text-anchor="middle" fill="#60a5fa" font-family="system-ui" font-size="28" font-weight="600">PROTOCOL</text>
+</svg>
